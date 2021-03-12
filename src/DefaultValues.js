@@ -1,19 +1,19 @@
 export const DEFAULT_STATISTICS = {
   pvp: {
-    X:0,
-    O:0,
-    draw:0
+    X: 0,
+    O: 0,
+    draw: 0,
   },
-  pvspc:{
-    X:0,
-    O:0,
-    draw:0
+  pvspc: {
+    X: 0,
+    O: 0,
+    draw: 0,
   },
-  pcvpc:{
-    X:0,
-    O:0,
-    draw:0
-  }
+  pcvpc: {
+    X: 0,
+    O: 0,
+    draw: 0,
+  },
 };
 
 export const WIN_COMBINATION = [
